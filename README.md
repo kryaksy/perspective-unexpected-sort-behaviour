@@ -1,4 +1,4 @@
-# Perspective Sort Behavior Repro
+# Perspective Unexpected Sort Behaviour
 
 This project reproduces an issue where sorting doesn't appear to work as expected when using `group_by` with multiple sort fields.
 
